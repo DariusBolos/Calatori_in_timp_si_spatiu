@@ -1,0 +1,17 @@
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\bin\Debug\DBTimpSpatiu.mdf
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\bin\Debug\DBTimpSpatiu_log.ldf
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\bin\Debug\Calatori_in_timp_si_spatiu.exe.config
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\bin\Debug\Calatori_in_timp_si_spatiu.exe
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\bin\Debug\Calatori_in_timp_si_spatiu.pdb
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.Administrator.resources
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.Autentificare.resources
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.Properties.Resources.resources
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.exe
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.pdb
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.Turist.resources
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.App_Admin.resources
+C:\Users\Elev\source\repos\Calatori_in_timp_si_spatiu\obj\Debug\Calatori_in_timp_si_spatiu.App_Turist.resources
